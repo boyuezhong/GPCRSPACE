@@ -1,2 +1,2 @@
 # GPCRSPACE
-If code is needed, please contact zhongfeisheng@fjmu.edu.cn. We will verify academic credentials.
+If code is needed, Please contact zhongfeisheng@fjmu.edu.cn using an academic email address. We will verify academic credentials.
